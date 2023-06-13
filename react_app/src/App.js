@@ -9,7 +9,7 @@ import CommonProp from "./Components/CommonProp";
 function App() {
   return (
     <div className="App">
-      <h1 className="text-center mt-4 bg-dark text-white">React Tutorial</h1>
+      <h1 className="text-center mt-3 bg-dark text-white">React Tutorial</h1>
       <BrowserRouter>
         <ul>
           <li>
